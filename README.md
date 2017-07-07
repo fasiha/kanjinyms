@@ -32,7 +32,7 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
     - 元: beginning/former time/origin
 - 鳳: male phoenix
   - 一: one
-  - 几: table 
+  - 几: table
   - 鳥: bird
     - bird: plucked bird?
     - 灬: stovetop fire
@@ -50,4 +50,41 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - 各: each and every
     - 夂: going legs
   - 門: gate
-
+- 大: big
+- 文: script/letter/writings/sentence
+- 字: character/letter/word
+- 山: mountain
+- 五: 5/five
+- 送: send/dispatch/escort/transmit
+  - ⻌: walk (radical)
+  - 关: horns from heaven/Taurus?
+    - 天: Heaven
+- 火: fire
+- 東: east
+  - 木: tree
+- 応: agreement, affirmative
+  - 心: heart
+  - 广: house on a cliff
+- 仁: humanity, benevolence
+  - 二: two
+  - 亻: person
+- 乱: war, riot, rebellion
+  - 乚: unbent fishhook
+  - 舌: tongue
+    - 千: thousand
+    - 丿: swoosh/slash
+    - 古: old
+      - 十: ten
+- 足: leg/foot
+  - sure: stop (slanted radical)
+  - 止: stop/halt
+- 利: profit/advantage/benefit
+  - 刂: sideways knife/sword
+  - 禾: grain/wheat
+- 幕: curtain/behind the curtains
+  - 巾: turban/scarf/towel/hanging scroll
+  - 莫: must not/do not/be not
+    - 艹: grass/flowers
+- 府: prefecture, government office
+  - 付: attach/append/affix/to glue
+    - 寸: inch/small length/Issun Boushi/Inch-high Samurai
