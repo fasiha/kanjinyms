@@ -22,4 +22,17 @@ Currently accompanies my [toponyms](https://github.com/fasiha//toponyms-and-nyme
   - 完: perfect/completion
     - 宀: roof
     - 元: beginning/former time/origin
+- 鳳: male phoenix
+  - 一: one
+  - 几: table 
+  - 鳥: bird
+    - bird: plucked bird?
+    - 灬: stovetop fire
+- 凰: female phoenix
+  - 皇: emperor
+- 堂: official public chamber (temple, shrine, chapel, store, etc.)
+  - 土: ground
+  - usual: usual
+    - ⺌: little (on top)
+    - 冖: cover/lid
 
