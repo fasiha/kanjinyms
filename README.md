@@ -43,4 +43,11 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - usual: usual
     - ⺌: little (on top)
     - 冖: cover/lid
+- 銀: silver
+  - 金: gold/metal
+  - 艮: just shy of good (よい)
+- 閣: tower
+  - 各: each and every
+    - 夂: going legs
+  - 門: gate
 
