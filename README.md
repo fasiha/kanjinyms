@@ -4,12 +4,20 @@ This is a list of kanji, primitives, radicals, and even smaller units of Sinic c
 
 Currently accompanies my [toponyms](https://github.com/fasiha//toponyms-and-nymes) database.
 
+The hierarchy isn’t important, just helpful for organizational purposes.
+
+There should be a one-to-one and *only* one-to-one relationship between kanji and English keywords.
+
+Sometimes I use an English keyword as kanji to indicate a primitive that doesn’t exist in Unicode (or isn’t commonly supported by fonts). These follow [KanjiBreak](https://kanji.aldebrn.me/export.html#primitives).
+
 - 京: capital
   - 亠: tophat
   - 口: mouth
   - 小: small
 - 都: metropolis
   - 者: type of person
+    - 日: sun/day
+    - 耂: old ground
   - 阝: city on a hill
 - 平等: equality/impartiality
   - 平: even/flat
@@ -30,7 +38,7 @@ Currently accompanies my [toponyms](https://github.com/fasiha//toponyms-and-nyme
     - 灬: stovetop fire
 - 凰: female phoenix
   - 皇: emperor
-- 堂: official public chamber (temple, shrine, chapel, store, etc.)
+- 堂: official public chamber (hall, temple, shrine, chapel, store, etc.)
   - 土: ground
   - usual: usual
     - ⺌: little (on top)
