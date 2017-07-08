@@ -107,4 +107,9 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - 申: monkey zodiac
   - 礻: side form of show/side show
 - 社: company/firm/(Shinto) shrine
-
+- 左: left
+  - left: left/right
+  - 工: craft/work/factory worker
+- 鴨: wild duck
+  - 甲: carapace/armor
+- 川: stream/river
