@@ -85,6 +85,26 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - 巾: turban/scarf/towel/hanging scroll
   - 莫: must not/do not/be not
     - 艹: grass/flowers
-- 府: prefecture, government office
+- 府: prefecture/government office
   - 付: attach/append/affix/to glue
     - 寸: inch/small length/Issun Boushi/Inch-high Samurai
+- 室: room/apartment/chamber
+  - 至: climax/arrive
+    - 厶: private/formal I/mu
+- 町: village/town
+  - 丁: sheets-counter/leaves-counter/street/ward
+  - 田: rice field
+- 上: above/top/up
+- 賀: congratulations/joy
+  - 加: add up/sum up/to annex/to gain
+  - 貝: shellfish/shell
+    - 目: eye
+    - ハ: legs
+- 茂: overgrown/grow thick/luxuriant
+  - 戊: cliff spear
+    - 戈: spear
+- 神: (Shinto) gods
+  - 申: monkey zodiac
+  - 礻: side form of show/side show
+- 社: company/firm/(Shinto) shrine
+
