@@ -122,4 +122,7 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
     - 了: finish/complete/understanding
   - 里: ri/Japanese league/village/hamlet
 - 下: below/under/down
-
+- 物: thing/object/stuff/possessions/everything/nothing
+  - 勿: mochiron/not/must not/do not/be not
+  - 牛: cow
+- 事: thing/matter/incident/occurrence/event/crisis/business
