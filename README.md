@@ -10,6 +10,8 @@ There should be a one-to-one and *only* one-to-one relationship between kanji an
 
 Sometimes I use an English keyword as kanji to indicate a primitive that doesn’t exist in Unicode (or isn’t commonly supported by fonts). These follow [KanjiBreak](https://kanji.aldebrn.me/export.html#primitives).
 
+**Legal** [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain. This compilation is derived solely from Wiktionary and JMDICT.
+
 - 京: capital
   - 亠: tophat
   - 口: mouth
@@ -126,3 +128,15 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - 勿: mochiron/not/must not/do not/be not
   - 牛: cow
 - 事: thing/matter/incident/occurrence/event/crisis/business
+- 延: prolong/stretch/extend
+  - 廴: long stride/stretching radical
+- 暦: calendar/almanac
+  - 林: few trees
+- 何: what?
+  - 可: can/passable/mustn’t
+- 比: compare/compete/vie/ratio/match
+- 叡: wisdom/intelligence
+  - association: umbrella
+  - 卜: divining/fortune-telling/quiddich?
+  - 又: again/on the other hand
+  - 目: eye
