@@ -113,3 +113,13 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 鴨: wild duck
   - 甲: carapace/armor
 - 川: stream/river
+- 高: tall
+  - tall: tophat-mouth?
+  - 冂: down-box
+- 野: geographic plain/geographic field/rustic/wild
+  - 予: beforehand/in advance/previously
+    - 龴: top fishhook/ma
+    - 了: finish/complete/understanding
+  - 里: ri/Japanese league/village/hamlet
+- 下: below/under/down
+
