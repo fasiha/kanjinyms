@@ -140,3 +140,4 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - 卜: divining/fortune-telling/quiddich?
   - 又: again/on the other hand
   - 目: eye
+- 今: now
