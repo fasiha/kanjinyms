@@ -145,3 +145,13 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 路: path/road
 - 所: place
 - 良: nice/good
+- 烏: crow/raven
+- 丸: round/circle
+- 示: to show/demonstrate
+- 奈: Nara
+- 津: haven/port/harbor
+- 聿: ink brush
+- 琵: glissando
+- 琶: lute
+- 湖: lake
+- 巴: comma design
