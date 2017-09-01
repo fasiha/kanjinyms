@@ -141,3 +141,7 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - 又: again/on the other hand
   - 目: eye
 - 今: now
+- 北: north
+- 路: path/road
+- 所: place
+- 良: nice/good
