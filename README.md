@@ -144,6 +144,8 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 北: north
 - 路: path/road
 - 所: place
+  - 戸: door
+  - 斤: axe radical
 - 良: nice/good
 - 烏: crow/raven
 - 丸: round/circle
@@ -155,3 +157,5 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 琶: lute
 - 湖: lake
 - 巴: comma design
+- 阪: slope/heights
+  - 反: anti-/warped/bent
