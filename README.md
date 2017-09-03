@@ -159,3 +159,10 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 巴: comma design
 - 阪: slope/heights
   - 反: anti-/warped/bent
+- 自: oneself/self-
+- 分: part/segment/to divide
+- 関: connection/barrier/gateway
+- 西: west
+- 徳: benevolence/virtue/goodness
+  - 彳: step
+  - 罒: eyes
