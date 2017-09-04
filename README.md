@@ -166,3 +166,32 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 徳: benevolence/virtue/goodness
   - 彳: step
   - 罒: eyes
+- 温: warm/mild/genial
+  - 皿: dish/plate
+- 泉: spring/fountain
+- 百: hundred
+- 円: circle/yen
+- 通: ... Street/traffic
+  - 用: task/business/service
+- 餅: sticky rice cakes
+  - 食: food/eat
+  - 并: put together/two horned pestles
+- 幸: happiness/good fortune
+- 美: beautiful
+  - 羊: sheep
+- 電: electricity
+  - 雨: rain
+- 話: tale/talk
+- 後: after/later
+  - 幺: fiberous thread
+- 方: style of.../direction
+- 訳: cause/reason
+  - 尺: Japanese foot (measurement)/rule/measure/scale
+- 本: book/origin
+- 当: this/contact/hit/guess
+- 気: spirit/mind/heart/mood
+- 先: former/earlier
+- 生: life/living
+- 学: study/-ology
+- 持: hold/have
+  - 扌: finger/hand
