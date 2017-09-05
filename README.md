@@ -160,7 +160,7 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 阪: slope/heights
   - 反: anti-/warped/bent
 - 自: oneself/self-
-- 分: part/segment/to divide
+- 分: segment/to divide/understand/comprehend
 - 関: connection/barrier/gateway
 - 西: west
 - 徳: benevolence/virtue/goodness
@@ -195,3 +195,7 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 学: study/-ology
 - 持: hold/have
   - 扌: finger/hand
+- 考: think/consider
+  - 与: bestow/impart
+- 入: enter
+- 出: exit
