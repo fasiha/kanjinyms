@@ -166,6 +166,7 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 徳: benevolence/virtue/goodness
   - 彳: step
   - 罒: eyes
+  - ⿳十罒心: Greek chorus?
 - 温: warm/mild/genial
   - 皿: dish/plate
 - 泉: spring/fountain
@@ -199,3 +200,10 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
   - 与: bestow/impart
 - 入: enter
 - 出: exit
+- 作: make/cook/prepare
+  - 乍: key-maker
+- 聞: hear/ask
+- 聴: listen/headstrong
+  - 耳: ear
+- 場: place/occasion/situation
+- 合: to come together
