@@ -206,4 +206,9 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 聴: listen/headstrong
   - 耳: ear
 - 場: place/occasion/situation
-- 合: to come together
+- 合: to come together/to unite
+- 曜: weekday
+  - 隹: small bird/turkey
+  - 羽: feather
+- 洗: wash/investigate
+- 濯: laundry/wash
