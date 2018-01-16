@@ -210,5 +210,12 @@ Sometimes I use an English keyword as kanji to indicate a primitive that doesn�
 - 曜: weekday
   - 隹: small bird/turkey
   - 羽: feather
+  - 翟: feathery pheasant
 - 洗: wash/investigate
-- 濯: laundry/wash
+- 濯: laundry/wash
+- 朝: morning
+  - 𠦝: ten tables (卓)
+- 夜: night
+- 休: rest/day off/absent/oyasumi
+- 週: week
+  - 周: perimeter/counter for laps, circuits
